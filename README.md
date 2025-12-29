@@ -30,10 +30,6 @@ CSS3 (Tailwind CSS via CDN): Styling and responsiveness.
 
 JavaScript (ES6+): Logic, DOM manipulation, and event listeners.
 
-📸 Screenshots
-
-(You can add a screenshot of your calculator here later)
-
 📦 How to Run
 
 1.  the repository:
